@@ -1,1 +1,1 @@
-# global_game_jam_2017
+# global_game_jam_2018
